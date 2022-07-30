@@ -16,6 +16,6 @@ Unit 5 Solution: [5-Forage-master](https://github.com/smartinternz02/SPSGP-75906
 
 Unit 6 Solution: [6-Water-Me-Kotlin-master](https://github.com/smartinternz02/SPSGP-75906-FDP---Android-Application-Development-Using-Kotlin/tree/main/6-Water-Me-Kotlin-master "6-Water-Me-Kotlin-master")
 
-All the solutions were first uploaded to my github, while doing the course. You can find the same here. https://github.com/vishnurajanme
+All the solutions were first uploaded to my github profile, while doing the course. You can find the same here. https://github.com/vishnurajanme
 
 My Google Developer Profile: http://g.dev/vishnurajan
